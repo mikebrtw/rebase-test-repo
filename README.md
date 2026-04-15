@@ -1,3 +1,3 @@
-# Rebase Test Repo
+# Project Title
 
-This is a test repository for learning git rebase.
+This is README from IDEA side
